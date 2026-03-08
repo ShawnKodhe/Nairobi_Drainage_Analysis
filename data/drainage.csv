@@ -1,0 +1,5 @@
+drain_id,neighborhood,length_m,status,blockage_score,lat,lon
+D001,Westlands,500,functional,0,-1.266,36.806
+D002,Kibera,300,clogged,0.8,-1.283,36.822
+D003,Westlands,450,clogged,0.6,-1.265,36.805
+D004,Kibera,350,functional,0,-1.284,36.823
